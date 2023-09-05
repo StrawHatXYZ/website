@@ -1,3 +1,10 @@
+---
+title: "Privacy sPolicy"
+publishDate: "4 SEP 2023"
+description: "Privacy Page We take the security of your data seriously and employ a variety of security measures to safeguard your personal information."
+tags: ["example", "blog",privacy_page]
+---
+
 # Privacy Policy for [DISCOVER]
 
 Last updated: [4-9-2023]
