@@ -1,8 +1,8 @@
 ---
-title: "Privacy sPolicy"
+title: "Privacy Policy"
 publishDate: "4 SEP 2023"
 description: "Privacy Page We take the security of your data seriously and employ a variety of security measures to safeguard your personal information."
-tags: ["example", "blog",privacy_page]
+tags: ["privacy", "security"]
 ---
 
 # Privacy Policy for [DISCOVER]
@@ -20,11 +20,12 @@ While using our service, we may ask you to provide us with certain personal info
 ### Information We Collect
 
 1. **User Purchases**: We collect data regarding your purchases, which includes:
-    - Product name
-    - Product URL
-    - Date of purchase
-    - Price
-    - Additional Item Details
+
+   - Product Name
+   - Product URL
+   - Date of Purchase
+   - Price
+   - Additional Item Details
 
 2. **Contact Information**: Your email address and other contact information.
 
