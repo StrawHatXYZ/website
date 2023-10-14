@@ -1,5 +1,5 @@
 ---
-title: "Privacy sPolicy"
+title: "Privacy Policy"
 publishDate: "4 SEP 2023"
 description: "Privacy Page We take the security of your data seriously and employ a variety of security measures to safeguard your personal information."
 tags: ["example", "blog",privacy_page]
@@ -21,7 +21,6 @@ Welcome to **Discover**. Your privacy is of paramount importance to us. This Pri
 ### Information We Don’t Use
 
 - We do not use your personal information for any purposes, including marketing or promotional communications.
-- We do not use location data.
 
 ## Data Protection and Security
 
