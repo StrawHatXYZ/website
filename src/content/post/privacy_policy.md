@@ -1,7 +1,7 @@
 ---
-title: "Privacy Policy"
+title: "Privacy Policy: Chrome Extension"
 publishDate: "4 SEP 2023"
-description: "Privacy Page We take the security of your data seriously and employ a variety of security measures to safeguard your personal information."
+description: "We take the security of your data seriously and employ a variety of security measures to safeguard your personal information."
 tags: ["privacy", "security"]
 ---
 
@@ -57,4 +57,4 @@ For more information about our privacy practices, or if you have questions, plea
 
 ---
 
-**Note**: This Privacy Policy is subject to changes, please review it frequently.
+**Note**: This Privacy Policy is subject to changes.

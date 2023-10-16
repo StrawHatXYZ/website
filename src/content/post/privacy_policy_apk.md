@@ -1,16 +1,17 @@
 ---
-title: "Privacy Policy"
+title: "Privacy Policy: Android App"
 publishDate: "4 SEP 2023"
-description: "Privacy Page We take the security of your data seriously and employ a variety of security measures to safeguard your personal information."
-tags: ["example", "blog",privacy_page]
+description: "We take the security of your data seriously and employ a variety of security measures to safeguard your personal information."
+tags: ["privacy", "security"]
 ---
 
-# Privacy Policy for [DISCOVER-APK]
+# for [DISCOVER-APK]
 
 Last updated: [4-9-2023]
+
 ## Introduction
 
-Welcome to **Discover**. Your privacy is of paramount importance to us. This Privacy Policy governs the manner in which Discover collects, uses, maintains, and discloses information collected from users (each, a "User") of the Discover application ("App"). It outlines our practices regarding your Personal Data and how we will treat it.
+Welcome to **Discover**. Your privacy is of paramount importance to us. This governs the manner in which Discover collects, uses, maintains, and discloses information collected from users (each, a "User") of the Discover application ("App"). It outlines our practices regarding your Personal Data and how we will treat it.
 
 ## Information Collection and Use
 
@@ -40,7 +41,7 @@ Welcome to **Discover**. Your privacy is of paramount importance to us. This Pri
 
 ## Data Retention
 
-We retain User data for as long as is necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
+We retain User data for as long as is necessary to fulfill the purposes outlined in this , unless a longer retention period is required or permitted by law.
 
 ## Third-Party Services
 
@@ -50,14 +51,12 @@ Discover does not share User data with third-party services, ensuring that your 
 
 Our App is not intended for use by children under the age of 13, and we do not knowingly collect personal data from children under this age.
 
-## Changes to This Privacy Policy
+## Changes to This
 
-We reserve the right to update our Privacy Policy from time to time. Any changes will be effective immediately upon the posting of the revised Privacy Policy. Your continued use of the App indicates your consent to the Privacy Policy then posted.
+We reserve the right to update our from time to time. Any changes will be effective immediately upon the posting of the revised . Your continued use of the App indicates your consent to the then posted.
 
 ## Contact Us
 
-If you have any questions, concerns, or suggestions regarding our Privacy Policy, please contact us at:
+If you have any questions, concerns, or suggestions regarding our , please contact us at:
 
 - Email: [hello@strawhat.xyz]
-
-
