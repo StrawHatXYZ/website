@@ -11,17 +11,15 @@ Last updated: [4-9-2023]
 
 ## Introduction
 
-Welcome to **Discover**. Your privacy is of paramount importance to us. This governs the manner in which Discover collects, uses, maintains, and discloses information collected from users (each, a "User") of the Discover application ("App"). It outlines our practices regarding your Personal Data and how we will treat it.
+Welcome to Discover App, we basically Recommend products to the users, based on their search, we try to connect the people who are recommending and who are trying to buy, this is the simple motive of the app. We recommend products from your own circle, for we are collecting your contacts, and providing more recommendations from your known person.
 
-## Information Collection and Use
+## Information Collects From Users
 
-### Information You Provide to Us
+We collect information from the user, we collect and store the information of name, email, phone number, Twitter handle, and all the data we safely store in the supabase with encryption. we do not share with anyone. 
 
-- **Contact Information**: We collect and encrypt User contact information to facilitate the functionality of our App. This may include, but is not limited to, name, email address, and phone number.
+We Collect users' Google contacts after successful login, we try to provide recommendations from their contacts, so people believe and try to like the recommendation and it is more trustworthy instead of someone unknown person.
 
-### Information We Don’t Use
-
-- We do not use your personal information for any purposes, including marketing or promotional communications.
+We do not use your personal information for any purposes, including marketing or promotional communications.
 
 ## Data Protection and Security
 
@@ -41,7 +39,7 @@ Welcome to **Discover**. Your privacy is of paramount importance to us. This gov
 
 ## Data Retention
 
-We retain User data for as long as is necessary to fulfill the purposes outlined in this , unless a longer retention period is required or permitted by law.
+We retain User data for as long as is necessary to fulfill the purposes outlined in this unless a longer retention period is required or permitted by law.
 
 ## Third-Party Services
 
@@ -53,10 +51,10 @@ Our App is not intended for use by children under the age of 13, and we do not k
 
 ## Changes to This
 
-We reserve the right to update our from time to time. Any changes will be effective immediately upon the posting of the revised . Your continued use of the App indicates your consent to the then posted.
+We reserve the right to update our from time to time. Any changes will be effective immediately upon the posting of the revised . Your continued use of the App indicates your consent to the then-posted.
 
 ## Contact Us
 
-If you have any questions, concerns, or suggestions regarding our , please contact us at:
+If you have any questions, concerns, or suggestions regarding our, please contact us at:
 
 - Email: [hello@strawhat.xyz]
