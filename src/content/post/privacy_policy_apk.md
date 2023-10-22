@@ -43,13 +43,12 @@ You may provide us with various information in connection with Your interaction 
 
 Discover may use the personal information collected to provide, maintain, improve, analyze and personalize the Services to its Users, partners and third party providers. More specifically, Discover may use such information to:
 
-Maintain Database of e-commerce product purchases using the information collected from third party providers and build a community for e-commerce product recommmendations.
-
-Display e-commerce product recommendations to Users following a manual product search against the Discover database, subject to that product searches will only produce relevant e-commerce products purchased by Users of Discover.
-
-Provide Your information ("Name", "email address" and "phone number") to the Users of Discover whose product searchs matched Your product purchases on e-commerce platforms.
-
-Connect the Users of Discover, following a manual product search against the Discover database, via the messaging functionality so that Users can chat regarding hteir mutual interests about e-commerce products.
+<ul class="list-inside list-disc">
+    <li>Maintain Database of e-commerce product purchases using the information collected from third party providers and build a community for e-commerce product recommmendations.</li>
+    <li>Display e-commerce product recommendations to Users following a manual product search against the Discover database, subject to that product searches will only produce relevant e-commerce products purchased by Users of Discover.</li>
+    <li>Provide Your information ("Name", "email address" and "phone number") to the Users of Discover whose product searchs matched Your product purchases on e-commerce platforms.</li>
+    <li>Connect the Users of Discover, following a manual product search against the Discover database, via the messaging functionality so that Users can chat regarding hteir mutual interests about e-commerce products.</li>
+</ul>
 
 ### STATISTICAL DATA FROM THE SERVICES
 
@@ -71,11 +70,11 @@ We may use the collected information to comply with applicable laws and to enfor
 
 In addition to the sharing and disclosure of personal information that is included as part of the functionality of the Services as described above, Discover may disclose personal information if we believe such action is necessary to:
 
-comply with the law, or legal process served on us;
-
-protect and defend our rights and the enforcement of our agreements; or
-
-protect the security and safety of Users or members of the public or other aspects of public importance, provided, of course, that such disclosure is lawful.
+<ul class="list-inside list-disc">
+    <li>comply with the law, or legal process served on us;</li>
+    <li>protect and defend our rights and the enforcement of our agreements; or</li>
+    <li>protect the security and safety of Users or members of the public or other aspects of public importance, provided, of course, that such disclosure is lawful.</li>
+</ul>
 
 We transfer information to trusted vendors, service providers, and other partners who support our business and Services, such as providing technical infrastructure services, bug testing, analyzing how our Services are used, measuring the effectiveness of ads and services and facilitating payments as well as potential partners who may wish to work with us to provide other services. Discover will always require these third parties to take appropriate organizational and technical measures to protect personal information and to observe applicable legislation.
 
