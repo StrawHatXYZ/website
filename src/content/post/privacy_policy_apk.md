@@ -67,6 +67,22 @@ We may contact You for verification purposes or with information pertaining to t
 
 We may use the collected information to comply with applicable laws and to enforce our agreements and protect and defend the rights or safety of Discover, its Users or any other person and verify provided User profile information with third party providers and ensure technical service functionality and data accuracy, perform trouble-shooting and prevent or detect fraud, security breaches or illegal activities.
 
+## SHARING AND DISCLOSURE OF PERSONAL INFORMATION
+
+In addition to the sharing and disclosure of personal information that is included as part of the functionality of the Services as described above, Discover may disclose personal information if we believe such action is necessary to:
+
+comply with the law, or legal process served on us;
+
+protect and defend our rights and the enforcement of our agreements; or
+
+protect the security and safety of Users or members of the public or other aspects of public importance, provided, of course, that such disclosure is lawful.
+
+We transfer information to trusted vendors, service providers, and other partners who support our business and Services, such as providing technical infrastructure services, bug testing, analyzing how our Services are used, measuring the effectiveness of ads and services and facilitating payments as well as potential partners who may wish to work with us to provide other services. Discover will always require these third parties to take appropriate organizational and technical measures to protect personal information and to observe applicable legislation.
+
+Discover may also share personal information with third party advertisers, agencies and networks. Such third parties may use this information for analytical and marketing purposes e.g. to provide measurement services and targeted ads and for improvement of products and services.
+
+We may disclose and transfer Your Information to our associated or affiliated organisations or related entities and to any third party who acquires, our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets.
+
 ## Data Protection and Security
 
 ### Encryption
