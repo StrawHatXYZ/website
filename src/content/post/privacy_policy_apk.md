@@ -37,6 +37,36 @@ Please note that no other contact information other than the phone numbers and t
 
 You may provide us with various information in connection with Your interaction with our Services. Discover may also from time to time offer You the opportunity to provide information on Your experience from using the Services or to participate in contests, surveys or other promotions. Discover will collect the information You provide in connection therewith, as well as any other information You provide through the Services or when You communicate or interact with us.
 
+## USE OF PERSONAL INFORMATION
+
+### PROVIDE, IMPROVE AND PERSONALIZE OUR SERVICES
+
+Discover may use the personal information collected to provide, maintain, improve, analyze and personalize the Services to its Users, partners and third party providers. More specifically, Discover may use such information to:
+
+Maintain Database of e-commerce product purchases using the information collected from third party providers and build a community for e-commerce product recommmendations.
+
+Display e-commerce product recommendations to Users following a manual product search against the Discover database, subject to that product searches will only produce relevant e-commerce products purchased by Users of Discover.
+
+Provide Your information ("Name", "email address" and "phone number") to the Users of Discover whose product searchs matched Your product purchases on e-commerce platforms.
+
+Connect the Users of Discover, following a manual product search against the Discover database, via the messaging functionality so that Users can chat regarding hteir mutual interests about e-commerce products.
+
+### STATISTICAL DATA FROM THE SERVICES
+
+We use aggregated or anonymized personal information for statistical and analytical purposes. We may come to share such data with third parties.
+
+We do not consider personal information to include information that has been made anonymous or aggregated so that it can no longer be used to identify a specific person, whether in combination with other information or otherwise.
+
+### PERSONALIZE OUR ADVERTISING AND COMMUNICATIONS
+
+We may use any of the information collected, as set out above, to provide You with location and interest based advertising, marketing messaging, information and services. We may also use the collected information to measure the performance of our advertising and marketing services.
+
+We may contact You for verification purposes or with information pertaining to the Services or special offers, e.g. newsletter e-mails, SMS and similar notifications about Discover's and our business partners' products and services. We also use the collected information to respond to you when you contact us.
+
+### COMPLIANCE WITH LAWS AND PREVENTION OF FRAUDULENT OR ILLEGAL ACTIVITIES
+
+We may use the collected information to comply with applicable laws and to enforce our agreements and protect and defend the rights or safety of Discover, its Users or any other person and verify provided User profile information with third party providers and ensure technical service functionality and data accuracy, perform trouble-shooting and prevent or detect fraud, security breaches or illegal activities.
+
 ## Data Protection and Security
 
 ### Encryption
