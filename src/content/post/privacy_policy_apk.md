@@ -83,40 +83,41 @@ Discover may also share personal information with third party advertisers, agenc
 
 We may disclose and transfer Your Information to our associated or affiliated organisations or related entities and to any third party who acquires, our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets.
 
-## Data Protection and Security
+## DELISTING OF CONTACT INFORMATION AND OPT-OUT OF AD TARGETING
 
-### Encryption
+If a User chooses to disable the Product Search Functionality, the Contact Information made available by that User is disabled and will thereafter not be available for search in the Discover database. If any persons do not wish to have their namproduct purchases made available through the Product Search Functionality, they can exclude themselves from further queries by notifying Discover via its website at www.strawhat.xyz or as set forth in the contact details below. You acknowledge and agree that Discover may keep and process personal information related to such request in order to be able to honor the request.
 
-- **Data at Rest**: All User data stored by us is encrypted to safeguard it from unauthorized access or use.
-- **Data in Transit**: All data exchanged between the App and our servers is encrypted to protect the information during transmission.
+You can limit or opt-out of the collection and use of Your information for ad targeting by third parties via Your device settings.
 
-### Access Control
+## INFORMATION SECURITY AND TRANSFER OF PERSONAL INFORMATION TO OTHER COUNTRIES
 
-- Strict access control policies are enforced to ensure that only authorized personnel have access to stored User data.
+In order to provide the Services, Discover will transfer, process and store personal and e-commerce product search or purchase information in a number of countries, including but not limited to India, and may also use cloud based services for this purpose. Discover may also subcontract storage or processing of Your information to third parties located in countries other than Your home country. Information collected within one country may, for example, be transferred to and processed in another country, which may not provide the same level of protection for personal data as the country in which it was collected. You acknowledge and agree that Discover may transfer Your personal and e-commerce product search or purchase information as described above for purposes consistent with this Privacy Policy. We take all reasonable precautions to protect personal and e-commerce product search or purchase information from misuse, loss and unauthorized access. Discover has implemented physical, electronic, and procedural safeguards in order to protect the information, including that the information will be stored on secured servers and protected by secured networks to which access is limited to a few authorized employees and personnel. However, no method of transmission over the Internet or method of electronic storage is 100% secure.
 
-## User Rights and Control
+## ACCESSING AND UPDATING PERSONAL INFORMATION
 
-- **Data Deletion**: Users can request the deletion of their data at any point by submitting a request through the App or contacting us directly.
-- **Data Portability**: Users have the right to request their personal data in a structured, commonly used, and machine-readable format.
+Discover may on its own initiative, or at Your request, replenish, rectify or erase any incomplete, inaccurate or outdated personal information retained by Discover in connection with the operation of the Services. When required by applicable law, You have the right to know what personal information is stored about You and to have any such information corrected or deleted on Your request. See contact details below.
 
-## Data Retention
+## MINORS
 
-We retain User data for as long as is necessary to fulfill the purposes outlined in this unless a longer retention period is required or permitted by law.
+Services are not intended for or designed to attract anyone under the relevant age of consent to enter into binding legal contracts under the laws of their respective jurisdictions. Discover does not intentionally or knowingly collect personal information through the Services from anyone under that age. We encourage parents and guardians to be involved in the online activities of their children to ensure that no personal information is collected from a child without their consent.
 
-## Third-Party Services
+## CHANGES TO THIS PRIVACY POLICY
 
-Discover does not share User data with third-party services, ensuring that your contact information remains confidential and secure.
+Discover may at any time with or without a separate notice change this Privacy Policy, and You are encouraged to review this Policy from time to time. In case of substantial changes, Discover will notify the Users by push notice or via notice in the Services. Your continued use of the Services after a notice of changes has been communicated to You or published on our Services shall constitute consent to the changed policy.
 
-## Children's Privacy
+## COOKIES
 
-Our App is not intended for use by children under the age of 13, and we do not knowingly collect personal data from children under this age.
+As described in our Cookie Policy, we use cookies, web beacons, flash cookies, HTML 5 cookies, pixel tags and other web application software methods, including mobile application identifiers, to help us recognize you across the Services, learn about your interests both on and off the Services, improve your experience, increase security, measure use and effectiveness of the Services, and serve advertising. You can control Cookies through your browser settings and other tools. By interacting with the Services, you consent to the use and placement of Cookies on your device in accordance with this Privacy Policy, which by reference incorporates our Cookie Policy.
 
-## Changes to This
+## CONTACT
 
-We reserve the right to update our from time to time. Any changes will be effective immediately upon the posting of the revised . Your continued use of the App indicates your consent to the then-posted.
+If You have any additional questions about Discover's Privacy Policy or want to make a request regarding certain personal or e-commerce product search / purchase information, You are encouraged to contact Discover. The contact information is:
 
-## Contact Us
+Straw Hat Privte Limited, 512/10, Service Lane, Outer Ring Road, Mahadevapura,
+Bangalore, KA, India - 560048.
 
-If you have any questions, concerns, or suggestions regarding our, please contact us at:
+You can also send Your enquiries (including in relation to any grievances to our Grievances Officer) via email to [hello@strawhat.xyz].
 
-- Email: [hello@strawhat.xyz]
+Effective date: [22 Oct 2023]
+
+Last updated: [22 Oct 2023]
