@@ -33,6 +33,8 @@ You may provide us with <strong>names, profile pictures, phone numbers, email ad
 
 Please note that no other contact information other than the phone numbers and thereto attached names, profile pictures, Google ID's and email addresses will be collected and used from Your address book. Other numbers or information that may be contained in Your address book will be filtered away by our safety algorithms and will therefore not be collected by Discover. Please also note that You can always choose not to share Contact Information with Discover and if You have shared such information and changed Your mind, You can delist Your number or opt-out to render Your entire Contact Information unavailable for search in the Discover database.
 
+With User Permission we are Storing the Contact List to Supabase in Encrypted, the user can request us to delete the data.
+
 ### OTHER INFORMATION YOU MAY PROVIDE
 
 You may provide us with various information in connection with Your interaction with our Services. Discover may also from time to time offer You the opportunity to provide information on Your experience from using the Services or to participate in contests, surveys or other promotions. Discover will collect the information You provide in connection therewith, as well as any other information You provide through the Services or when You communicate or interact with us.
