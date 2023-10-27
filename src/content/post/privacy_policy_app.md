@@ -9,13 +9,13 @@ tags: ["privacy", "security"]
 
 Discover is firmly committed to the security and protection of personal information of our Users and their contacts. This Privacy Policy describes how Discover will collect, use, share and process personal information.
 
-By accepting the Discover Privacy Policy and/or using the Services You consent to the collection, use, sharing and processing of personal information as described herein. The user can request their data to be deleted at any time, by reaching out to us at [hello@strawhat.xyz]
+By accepting the Discover Privacy Policy and/or using the Services You consent to the collection, use, sharing and processing of personal information as described herein. If You provide us with personal information about someone else, You confirm that they are aware that You have provided their information and that they consent to our use of their information according to our Privacy Policy. You may opt-out at any time to prevent further use of the information shared via the Services.
 
 ## PERSONAL INFORMATION COLLECTED
 
 ### USER PROFILE
 
-In order to create a user profile, You must register Your first name, last name email address and phone number. Additional information that may be provided at Your option include, but is not limited to, photo, gender, street address and zip code, country of residence, Twitter address and a short status message. Discover may supplement the information provided by You with information from third parties and add it to the information provided by You e.g. demographic information and additional contact information that is publicly available.
+In order to create a user profile, You must register Your first name, last name email address and phone number. Additional information that may be provided at Your option include, but is not limited to, photo, gender, street address and zip code, country of residence, professional website, Facebook page, Twitter address and a short status message. Discover may supplement the information provided by You with information from third parties and add it to the information provided by You e.g. demographic information and additional contact information that is publicly available.
 
 ### INSTALLATION AND USE
 
@@ -26,6 +26,14 @@ Some information, including, but not limited to, usage information and other inf
 ### THIRD PARTY SERVICES
 
 You may provide us with Your user identifier information regarding, or to enable Your usage of, certain third party services (together with a mapped photo where applicable) e.g. social networking services and payment services, in order for the Services to interoperate with such third party services. You may use such third party services to create Your user profile or log in to our Services, share information with such third party services, or to connect Your user profile with the respective third party services. Such third party services may automatically provide us with access to certain personal information retained by them about You (e.g., your payment handle, unique identification information, content viewed by You, content liked by You and information about the advertisements You have been shown or may have clicked on) and You agree that we may collect, use and retain the information provided by these third party services in accordance with this Privacy Policy. You may be able to control the personal information You allow us to have access to through the privacy settings on the respective third party service. We will never store any passwords created for any third party services.
+
+### CONTACT INFORMATION
+
+You may provide us with <strong>names, profile pictures, phone numbers, email addresses and Google ID's </strong>contained in <strong>Your address book </strong>(“<strong>Contact Information</strong>”) with Discover. In addition to Contact Information, if You choose to activate use of a third party service, such as social networks services, within the Services, Discover may collect, store and use the list of identifiers associated with said services linked to the Contact Information in order to enhance the results shared with other Users.
+
+Please note that no other contact information other than the phone numbers and thereto attached names, profile pictures, Google ID's and email addresses will be collected and used from Your address book. Other numbers or information that may be contained in Your address book will be filtered away by our safety algorithms and will therefore not be collected by Discover. Please also note that You can always choose not to share Contact Information with Discover and if You have shared such information and changed Your mind, You can delist Your number or opt-out to render Your entire Contact Information unavailable for search in the Discover database.
+
+With User's consent we upload the User's Contact List to Supabase (our Cloud Backend) and store it in Encrypted format. The user can request their data to be deleted at any time, by reaching out to us at [hello@strawhat.xyz]
 
 ### OTHER INFORMATION YOU MAY PROVIDE
 
@@ -41,7 +49,7 @@ Discover may use the personal information collected to provide, maintain, improv
     <li>Maintain Database of e-commerce product purchases using the information collected from third party providers and build a community for e-commerce product recommmendations.</li>
     <li>Display e-commerce product recommendations to Users following a manual product search against the Discover database, subject to that product searches will only produce relevant e-commerce products purchased by Users of Discover.</li>
     <li>Provide Your information ("Name", "email address" and "phone number") to the Users of Discover whose product searchs matched Your product purchases on e-commerce platforms.</li>
-    <li>Connect the Users of Discover, following a manual product search against the Discover database, via the messaging functionality so that Users can chat regarding their mutual interests about e-commerce products.</li>
+    <li>Connect the Users of Discover, following a manual product search against the Discover database, via the messaging functionality so that Users can chat regarding hteir mutual interests about e-commerce products.</li>
 </ul>
 
 ### STATISTICAL DATA FROM THE SERVICES
@@ -78,11 +86,13 @@ We may disclose and transfer Your Information to our associated or affiliated or
 
 ## DELISTING OF CONTACT INFORMATION AND OPT-OUT OF AD TARGETING
 
-If any persons wish to delist their contact information from Discover, they can do so by notifying Discover via email at hello@strawhat.xyz or as set forth in the contact details below. You acknowledge and agree that Discover may keep and process personal information related to such request in order to be able to honor the request.
+If a User chooses to disable the Product Search Functionality, the Contact Information made available by that User is disabled and will thereafter not be available for search in the Discover database. If any persons do not wish to have their namproduct purchases made available through the Product Search Functionality, they can exclude themselves from further queries by notifying Discover via its website at www.strawhat.xyz or as set forth in the contact details below. You acknowledge and agree that Discover may keep and process personal information related to such request in order to be able to honor the request.
+
+You can limit or opt-out of the collection and use of Your information for ad targeting by third parties via Your device settings.
 
 ## INFORMATION SECURITY AND TRANSFER OF PERSONAL INFORMATION TO OTHER COUNTRIES
 
-In order to provide the Services, Discover will transfer, process and store personal and e-commerce product search or purchase information in a number of countries, including but not limited to India, and may also use cloud based services for this purpose. Discover may also subcontract storage or processing of Your information to third parties located in countries other than Your home country. Information collected within one country may, for example, be transferred to and processed in another country, which may not provide the same level of protection for personal data as the country in which it was collected. You acknowledge and agree that Discover may transfer Your personal and e-commerce product search or purchase information as described above for purposes consistent with this Privacy Policy. We take all reasonable precautions to protect personal and e-commerce product search or purchase information from misuse, loss and unauthorized access. Discover has implemented physical, electronic, and procedural safeguards in order to protect the information, including that the information will be stored on secured servers and protected by secured networks to which access is limited to a few authorized employees and personnel.
+In order to provide the Services, Discover will transfer, process and store personal and e-commerce product search or purchase information in a number of countries, including but not limited to India, and may also use cloud based services for this purpose. Discover may also subcontract storage or processing of Your information to third parties located in countries other than Your home country. Information collected within one country may, for example, be transferred to and processed in another country, which may not provide the same level of protection for personal data as the country in which it was collected. You acknowledge and agree that Discover may transfer Your personal and e-commerce product search or purchase information as described above for purposes consistent with this Privacy Policy. We take all reasonable precautions to protect personal and e-commerce product search or purchase information from misuse, loss and unauthorized access. Discover has implemented physical, electronic, and procedural safeguards in order to protect the information, including that the information will be stored on secured servers and protected by secured networks to which access is limited to a few authorized employees and personnel. However, no method of transmission over the Internet or method of electronic storage is 100% secure.
 
 ## ACCESSING AND UPDATING PERSONAL INFORMATION
 
@@ -104,13 +114,11 @@ As described in our Cookie Policy, we use cookies, web beacons, flash cookies, H
 
 If You have any additional questions about Discover's Privacy Policy or want to make a request regarding certain personal or e-commerce product search / purchase information, You are encouraged to contact Discover. The contact information is:
 
-Straw Hat Labs Private Limited, </br>
-512/10, Service Lane, </br>
-Outer Ring Road, Mahadevapura, </br>
+Straw Hat Privte Limited, 512/10, Service Lane, Outer Ring Road, Mahadevapura,
 Bangalore, KA, India - 560048.
 
 You can also send Your enquiries (including in relation to any grievances to our Grievances Officer) via email to [hello@strawhat.xyz].
 
-Effective date: [26 Oct 2023]
+Effective date: [22 Oct 2023]
 
-Last updated: [26 Oct 2023]
+Last updated: [22 Oct 2023]
